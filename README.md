@@ -5,3 +5,7 @@
 To create a new repository using this template go to [https://github.com/juncture-digital/template/generate](https://github.com/juncture-digital/template/generate)
 
 Example essays can be found at [https://github.com/juncture-digital/examples](https://github.com/juncture-digital/examples)
+
+<param ve-image
+url="[https://archive.org/embed/ifdinosaurswerea00doug)]"
+fit="contain">
