@@ -17,4 +17,8 @@
  
  And now I am going to do a footnote![^1]
  
+ Wikipedia begins with the following block quote:
+ >The potato is a starchy tuberous vegetable.[^2]
+ 
  [^1]: Wikipedia Article on potato.
+ [^2]: Wikipedia article on potato.
