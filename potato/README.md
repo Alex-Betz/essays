@@ -14,3 +14,7 @@
  I want to write about the *potato.* In particular, the **potato**. In fact, let me link you to it right [here](https://en.wikipedia.org/wiki/Potato).
  
  Here is an example of a [QID usage](Q16587531).
+ 
+ And now I am going to do a footnote![^1]
+ 
+ [^1]: Wikipedia Article on potato.
