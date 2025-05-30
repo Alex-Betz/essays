@@ -22,7 +22,7 @@
 
 This is the end of that paragraph.
 <param ve-image
-	   src="wc:Solanum tuberosum DS2.jpg"
+	   src="wc:Solanum_tuberosum_DS2.jpg"
 	   caption="This is an image of the flowering part of a potato!"
  
  [^1]: Wikipedia Article on potato.
