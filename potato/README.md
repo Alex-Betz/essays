@@ -25,6 +25,10 @@ This is the end of that paragraph.
 Here is the second paragraph.
 <param ve-image
 	   src="gh:Alex-Betz/essays/main/potato/bakedpotato.jpg">
+
+This is the fourth paragraph, and I want to display a primary source from archive.org
+<param ve-iframe
+	   src="https://archive.org/details/potatoprinting00hadd/page/40/mode/2up">
  
  [^1]: Wikipedia Article on potato.
  [^2]: Wikipedia Article on potato.
