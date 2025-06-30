@@ -56,16 +56,16 @@ This is the fourth paragraph, and I want to display a primary source from archiv
 <param ve-iframe
 	   src="https://archive.org/details/potatoprinting00hadd/page/40/mode/2up">
  
- [^4]:
- [^5]:
- [^6]:
- [^7]:
- [^8]:
- [^9]:
- [^10]:
- [^11]:
- [^52]:
- [^53]:
- [^54]:
- [^55]:
- [^56]:
+ [^4]: John Reader, *Potato: A History of the Propitious Esculent* (New Haven: Yale University Press, 2009), 4.
+ [^5]: Gavin Ramsay, D. Wynne Griffiths, and Nigel Deighton, "Patterns of Solanidine Glycoalkaloid Variation in Four Gene Pools of the Cultivated Potato," *Genetic Resources and Crop Evolution* 51, no. 8 (December 2005): 805–6, https://doi.org/10.1007/s10722-005-0004-y
+ [^6]: Štefan Koco, Jozef Vilček, Stanislav Torma, Eva Michaeli, and Vladimír Solár, "Optimising Potato (Solanum tuberosum L.) Cultivation by Selection of Proper Soils," *Agriculture* 10, no. 5 (2020): 155, https://doi.org/10.3390/agriculture10050155.
+ [^7]: Reader, *Potato*, 23.
+ [^8]: Paul C. Bethke, Dennis A. Halterman, and Shelley H. Jansky, "Potato Germplasm Enhancement Enters the Genomics Era," *Agronomy* 9, no. 10 (2019): 575, 1–2.
+ [^9]: Bethke.
+ [^10]: Domingo Ríos, André Devaux, and José Ignacio Ruiz de Galarreta, "Ancient Potato Varieties of the Canary Islands: Their History, Diversity and Origin of the Potato in Europe," *Potato Research* (2023): 965–66, https://doi.org/10.1007/s11540-023-09672-2. See also David Ellis, Alberto Salas, Oswaldo Chavez, Rene Gomez, and Noelle Anglin, "Ex Situ Conservation of Potato [*Solanum* Section *Petota* (Solanaceae)] Genetic Resources in Genebanks," in *The Potato Crop*, ed. Hugo Campos and Oscar Ortiz, 109–38 (Cham, Switzerland: Springer International Publishing, 2020), 113–15, http://dx.doi.org/10.1007/978-3-030-28683-5_4.
+ [^11]: David M. Spooner, Marc Ghislain, Reinhard Simon, Shelley H. Jansky, and Tatjana Gavrilenko, "Systematics, Diversity, Genetics, and Evolution of Wild and Cultivated Potatoes," *Botanical Review* 80, no. 4 (2014): 283, https://doi.org/10.1007/s12229-014-9146-y.
+ [^52]: Anne Hammond, "Ansel Adams at Manzanar War Relocation Center, 1943–1944," *History of Photography* 30, no. 3 (Autumn 2006): 247, https://doi.org/10.1080/03087298.2006.10443467.
+ [^53]: U.S. Department of the Interior, National Park Service, "Chapter Twelve: Operation of Manzanar War Relocation Center, January 1943–November 1945," in *Manzanar Historic Resource Study/Special History Study* (National Park Service, 2002), under the heading "Vegetable Production," accessed May 23, 2025, https://www.nps.gov/parkhistory/online_books/manz/hrs12.htm.
+ [^54]: Miné Okubo, *Citizen 13660*, Classics of Asian American Literature (Seattle: University of Washington Press, 2014), 169.
+ [^55]: Louise Ogawa to Clara Breed, January 27, 1943, Object 93.75.31D, Japanese American National Museum Archives, Los Angeles, CA. Gift of Elizabeth Y. Yamada.
+ [^56]: Okubo, 39.
