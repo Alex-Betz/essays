@@ -56,5 +56,16 @@ This is the fourth paragraph, and I want to display a primary source from archiv
 <param ve-iframe
 	   src="https://archive.org/details/potatoprinting00hadd/page/40/mode/2up">
  
- [^1]: Wikipedia Article on potato.
- [^2]: Wikipedia Article on potato.
+ [^4]:
+ [^5]:
+ [^6]:
+ [^7]:
+ [^8]:
+ [^9]:
+ [^10]:
+ [^11]:
+ [^52]:
+ [^53]:
+ [^54]:
+ [^55]:
+ [^56]:
