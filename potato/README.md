@@ -12,13 +12,10 @@
 ### What is a Potato?
  
  The potato, *Solanum tuberosum*, belongs to the Solanaceae family: a collection of flowering plants commonly known as nightshades. Like many other members of the nightshade family—such as tomatoes and eggplants—potatoes are laced with toxic compounds called glycoalkaloids, which early cultivators reduced through selective breeding to make them edible for humans.[^4] Curiously, unlike most crops, the portion of the potato plant used for human consumption is little more than a swollen section of the stem, known as the stolon. While the exact place of origin for the potato remains a point of debate, its native range stretches from the southwest reaches of present-day United States to the slopes of the Andes Mountains in Central Argentina.[^5] A key contributing factor to the potato’s expansive native range is its viability in nearly any soil or climate, aside from soils high in saline or alkaline materials.[^6] As a result, its ability to grow just about anywhere has made it easily adoptable into many societies around the world regardless of their geographies, from wet coastal lowlands to arid terraces high above sea level.
-<param ve-image 
-	   manifest="gh:Alex-Betz/essays/potato/potatoWTmap.jpg"
-	   caption="*Map showing the distribution of wild potato species*, 2020. Map. Image source: David Ellis, Alberto Salas, Oswaldo Chavez, Rene Gomez, and Noelle Anglin, "Ex Situ Conservation of Potato [Solanum Section Petota (Solanaceae)] Genetic Resources in Genebanks," in The Potato Crop, ed. Hugo Campos and Oscar Ortiz (Cham, Switzerland: Springer International Publishing, 2020), 115. http://dx.doi.org/10.1007/978-3-030-28683-5_4.">
+<param ve-image manifest="gh:Alex-Betz/essays/potato/potatoWTmap.jpg" caption="*Map showing the distribution of wild potato species*, 2020. Map. Image source: David Ellis, Alberto Salas, Oswaldo Chavez, Rene Gomez, and Noelle Anglin, "Ex Situ Conservation of Potato [Solanum Section Petota (Solanaceae)] Genetic Resources in Genebanks," in The Potato Crop, ed. Hugo Campos and Oscar Ortiz (Cham, Switzerland: Springer International Publishing, 2020), 115. http://dx.doi.org/10.1007/978-3-030-28683-5_4.">
 
  The part of the plant that comes readily to mind—its carbohydrate-rich stolon extending underground—also serves an unexpected purpose: to self-propagate without sexual reproduction.[^7] Potatoes in the wild can reproduce through two different means, sexually through pollination with other potato plants or asexually through their stolons. The former increases genetic variation by allowing genes to flow between different individual potato plants, while the latter produces genetically identical offspring when environmental pressures limit the number of diverse partners available for reproduction.[^8] The potato’s capacity for asexual reproduction has been a boon for both the plant and humans alike, allowing for easy cultivation of self-propagating, nutrient-rich tubers. However, its asexual propagation does not come without risk: stagnation caused by lack of genetic diversity opens new vulnerabilities for the plant and the human populations that rely on it.[^9] Current estimates mark the potato’s domestication beginning around 10,000 years ago, when early cultivators began selecting individual wild potato plants with larger, nutrient-rich stolons and lower levels of glycoalkaloids for further propagation.[^10] As a result, what is commonly referred to as the potato plant actually consists of seven cultivated species and 228 wild species grown throughout the world, with additional varieties, caused by inter-species hybridization, stretching into the thousands.[^11]
-<param ve-image
-src="gh:Alex-Betz/essays/main/potato/Dillon%20Potatoes.jpg" caption="Mary Dillon, *Heritage Potatoes*, 2014. Watercolor on paper. Courtesy of the artist.">
+<param ve-image src="gh:Alex-Betz/essays/main/potato/Dillon%20Potatoes.jpg" caption="Mary Dillon, *Heritage Potatoes*, 2014. Watercolor on paper. Courtesy of the artist.">
 
 ### Pre-Columbian History
 
@@ -28,14 +25,11 @@ Indigenous to the Peruvian-Bolivian Andes mountains of South America, the potato
 
 
 Potatoes, along with corn and quinoa, became crucial food crops that Indigenous farmers and communities worked together to plant, harvest, and circulate as part of a complex system of labor and trade that helped sustain the dietary needs of populations dispersed over mountainous terrains. Andean farmers wielded tools, such as the ayacho (a mattock with blades) and taclla (a foot plough) in Quechua, to break and shift soil for the planting. The labor required to grow and harvest potatoes was formalized under the Incan Empire, in a system called mit’a (a turn or season), which required each man and woman of a community to work cooperatively by reciprocating labor and to contribute to the state.[^14]
-<param ve-iframe
-src="https://archive.org/details/primer-nueva-coronica-y-buen-gobierno-manuscrito/page/n1157/mode/1up">
+<param ve-iframe src="https://archive.org/details/primer-nueva-coronica-y-buen-gobierno-manuscrito/page/n1157/mode/1up">
 
 Incan calendars depicted potato planting and harvest. This can be seen in the manuscript First New Chronicle and Good Government (El Primer Nueva Corónica y Buen Gobierno) written by Felipe Guamán Poma de Ayala in 1615 and included in Inca Garcilaso de la Vega’s The Royal Commentaries of the Incas (Comentarios Reales de los Incas). Three months of the year were notable for potato planting and harvest: January, June, and December. De la Vega detailed that January was the month for "work in the potato fields; a man and woman are seen with hoes in their hands." In June, "potatoes are dug with spades." And in December, "the potatoes and quinoa are planted." The illustration for December "shows a peasant being helped by a woman to make a hole in the earth with a spade driven in by a mallet, while a second woman is preparing to place a potato in it."[^15]
 
 <param ve-image src="gh:JessaMaria/Potatos/main/potato/Pre-Col.png" caption="Photos from Primer Nueva Corónica Y Buen Gobierno, Felipe Guamán Poma de Ayala manuscrito. Source: Archive.org">
-
-<param ve-image src="gh:JessaMaria/Potatos/main/potato/Pre-Col2.png">
 
  ### Manzanar War Relocation Center
 
