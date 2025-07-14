@@ -73,24 +73,18 @@ While recalling her experience of going for a meal in the camp’s mess hall, Ok
 
 
 We often ask plants questions such as: Where are you native? How many variants exist? What environment do you strive in? What are you most vulnerable to? Humans ask—at times demand—these questions of plants, and the answers are held not only in science, but also by communities fighting to preserve their native plants. Each answer is a story, and more stories continue to be collected, creating a plant archive of survival. What does the plant archive of the potato tell us? In the public imagination, the potato exists within two dominant narratives.
-
-
 <param ve-image
 	   src="gh:JessaMaria/Potatos/main/potato/newspaper.png"
 	   caption="*The Southern Herald.,* March 15, 1912. Provided by: Mississippi Department of Archives and History.">
 
 
 The first narrative lies in the potato’s monoculture and consumption value as a crop, as different countries and communities have made it a vital part of their diet. As the plant scientist Tiina Särkinen wrote, "We commonly treat the plants beneficial to us—those we cultivate and depend upon—as distinct and disconnected from plant diversity in the wild. But our crops all have their origins in wild biodiversity and have wild ancestors."[^57] The *how* or *when* behind the movement of a plant’s "wild ancestors" across the globe isn’t always easy to pinpoint. Still, the effects of its cross-cultivation transform a plant’s ability to survive.
-
-
 <param ve-image
 	   src="wc:Mercado_Modelo_de_Huancayo_Peru-_Solanum_tuberosum_varieties_VI.jpg"
 	   caption="Mercado Modelo de Huancayo Peru- Solanum tuberosum variedades. Source: Thayne Tuason.">
 
 
 The second narrative centers on famine and the risk of monoculture, both to biodiversity and to communities that have become dependent on the monocrop. Beyond the Irish famine, there are other lesser-known moments when the infection of potato crops caused famine, otherwise known as late blight, that decimated potatoes: in 1843 Pennsylvania, 1921 Soviet Union, and 2003 Papua New Guinea. Given the potato’s vulnerability to disease and climate change, "community conservationists of the Potato Park [in Peru] decided in 2011 to send more than 1,500 seed samples of their own varieties to be stored in the *Svalbard Global Seed Vault*."[^58] Communities and countries within Latin America are taking steps to protect the potato’s many variants. The International Potato Center (CIP), whose main headquarters is in Peru, works with more than twenty countries across Africa, Asia, and Latin America to enhance food security.
-
-
 <param ve-image
 	   src="wc:Cip_Handquarters_%3D_CIP本部の玄関.jpg"
 	   caption="*El Centro Internacional de la Papa* (The International Potato Center), Peru. Source: JIRCAS Photo Archive.">
@@ -99,24 +93,18 @@ The second narrative centers on famine and the risk of monoculture, both to biod
 
 
 Along with the collection of seed samples, research across the globe to find a blight-resistant gene through networks similar to the CIP has been ongoing in Peru, Chile, Mexico, the Philippines, Lithuania, and sub-Saharan Africa.[^59] And another research effort in the fight against the potato’s late blight is being conducted in Edinburgh, Scotland. Due to the "understandable interest in the Edinburgh potato given its proven resistance to late blight over many years," a collaboration between the James Hutton Institute, the Royal Botanic Garden Edinburgh and SASA, have "recreated the Edinburgh potato (Solanum × edinense) by controlled crossing of the cultivated potato with the wild species Solanum demissum found naturally in Mexico.[^60] The fight to find a genetically resistant variant to blight, through a "controlled crossing" using this wild species from Mexico, creates an ongoing and shifting story of plant resistance. If we consider potatoes and their movement, in this case, the wild species from Mexico into Edinburgh, as a form of plant travel narratives, then we can read their histories of blight not necessarily as being antithetical to an archive of survival, but as being one of resistance to disease and decimation.
-
-
 <param ve-image
 	   src="wc:Ареал_Solanum_tuberosum_GBIF.jpg"
 	   caption="Distribution of the *Solanum Tuberosum.* Source: Global Biodiversity Information Facility.">
 
 
 Such "controlled crossings" can be applied to what Carmen Lamas has called the "Latinx return" or "Latin American return," which charts "an endless circuit of arrivals and departures" across existing divides. In her book, The Latino Continuum and the Nineteenth-Century Americas, Lamas explains how, when studying or recovering the lives and experiences of Latinx people, "we find markers—geographic, political, affective, aesthetic, and imaginative—that speak to the comings and goings of Latin Americans to the U.S. and back again to their home countries… They all speak of what I call the Latinx return, an endless circuit of arrivals and departures."[^61] Lamas reminds us that the crossing of the divide does not only have to involve an actual person returning, but also in the circulation of the translated works Latin American authors have published within the United States and Latin America, and more.
-
-
 <param ve-image
 	   src="wc:Mexico_topographic_map-blank.svg"
 	   caption="Map of Mexico.">
 
 
 Potatoes and the fight to find a genetically resistant variant begs whether the "Latino continuum" can be more-than-human—one found within the texts of plants that are neither entirely Latin American nor European. Gardens, deserts, and the environment are storied archives. When we read each plant and ecosystem as a text, their narratives reflect a historical coming and going. The wild species being brought from Mexico and cultivated to recreate a resistant Edinburgh potato not only offers the chance to read a different "Latin American return" outside of the geographical area of the Americas. But also one that extends beyond published texts and people who return to their country of origin, to include plants. The duration for which the Edinburgh potato will remain resistant is unknown, and scientific research conducted in Edinburgh is ongoing. Research to cultivate a resistant potato will hopefully also benefit not only Latin American countries but also other countries in need, and be conducted collaboratively within their communities.
-
-
 <param ve-image
 	   src="gh:JessaMaria/Potatos/main/potato/second.png"
 	   caption="*The Southern Herald.,* March 15, 1912. Provided by: Mississippi Department of Archives and History.">
