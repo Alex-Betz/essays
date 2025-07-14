@@ -136,25 +136,6 @@ caption="*The Southern Herald.,* March 15, 1912. Provided by: Mississippi Depart
 <param ve-image
 
 src="gh:JessaMaria/Potatos/main/potato/excerpt.png">
-
- I want to write about the *potato.* In particular, the **potato**. In fact, let me link you to it right [here](https://en.wikipedia.org/wiki/Potato).[^1]
- Here is an example of a [QID usage](Q16587531).
- And now I am going to do a footnote!
- Wikipedia begins with the following block quote:
- >The potato is a starchy tuberous vegetable.[^2]
-
-This is the end of that paragraph.
-<param ve-image
-	   src="wc:Solanum_tuberosum_DS2.jpg"
-	   caption="This is an image of the flowering part of a potato!">
-
-Here is the second paragraph.
-<param ve-image
-	   src="gh:Alex-Betz/essays/main/potato/bakedpotato.jpg">
-
-This is the fourth paragraph, and I want to display a primary source from archive.org
-<param ve-iframe
-	   src="https://archive.org/details/potatoprinting00hadd/page/40/mode/2up">
  
  [^4]: John Reader, *Potato: A History of the Propitious Esculent* (New Haven: Yale University Press, 2009), 4.
  [^5]: Gavin Ramsay, D. Wynne Griffiths, and Nigel Deighton, "Patterns of Solanidine Glycoalkaloid Variation in Four Gene Pools of the Cultivated Potato," *Genetic Resources and Crop Evolution* 51, no. 8 (December 2005): 805–6, https://doi.org/10.1007/s10722-005-0004-y
