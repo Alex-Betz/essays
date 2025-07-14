@@ -1,4 +1,3 @@
-
 <a href="https://www.juncture-digital.org">
 <img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 <param ve-config 
@@ -48,7 +47,7 @@ Incan calendars depicted potato planting and harvest. This can be seen in the ma
 		caption="Ansel Adams, *Farm, farm workers, Mt. Williamson in background, Manzanar Relocation Center, California*, 1943. Gelatin silver print. Library of Congress, Prints and Photographs Division, https://www.loc.gov/resource/ppprs.00211/#.">
  
 [Manzanar](Q985484) was an incarceration camp in Owens Valley, California, created by the United States government for the forced relocation and detainment of Japanese Americans during the Second World War.[^52] At its peak, Manzanar held 10,046 people within the single square mile of its confines. Needing a crop that could produce a high density of nutrition in the rugged terrain of the high Sierra Mountains, the government selected the potato as one of the staple foods of the prisoners’ diet, planting it on a 118-acre field alongside a number of other crops such as melons, tomatoes, and cabbage.[^53] Adams, acclaimed for his photographs of landscapes and natural scenes, visited Manzanar four times between 1943 and 1944. What he doesn’t include in his photographs are the barbed wire fences and guard towers that encircled life within Manzanar.
-`map Q985484,8`
+<param ve-map center="Q985484,8"  basemaps="OpenStreetMap">
 
 The potato was a locus of agricultural labor and sustenance for Japanese Americans in California even prior to their forced incarceration. For example, images such as Dorthea Lange’s 1942 photograph, *Stockton, Calif. Apr. 1942. Cutting potato seed on an industrialized farm where, before evacuation, persons of Japanese ancestry did all the work* captures the centrality of the crop to the geography of the American West and the communities within it. As Japanese Americans were forcibly relocated to camps in the High Sierras, the potato was made to follow.
  <param ve-image 
