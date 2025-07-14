@@ -47,7 +47,7 @@ Incan calendars depicted potato planting and harvest. This can be seen in the ma
 		caption="Ansel Adams, *Farm, farm workers, Mt. Williamson in background, Manzanar Relocation Center, California*, 1943. Gelatin silver print. Library of Congress, Prints and Photographs Division, https://www.loc.gov/resource/ppprs.00211/#.">
  
 [Manzanar](Q985484) was an incarceration camp in Owens Valley, California, created by the United States government for the forced relocation and detainment of Japanese Americans during the Second World War.[^52] At its peak, Manzanar held 10,046 people within the single square mile of its confines. Needing a crop that could produce a high density of nutrition in the rugged terrain of the high Sierra Mountains, the government selected the potato as one of the staple foods of the prisoners’ diet, planting it on a 118-acre field alongside a number of other crops such as melons, tomatoes, and cabbage.[^53] Adams, acclaimed for his photographs of landscapes and natural scenes, visited Manzanar four times between 1943 and 1944. What he doesn’t include in his photographs are the barbed wire fences and guard towers that encircled life within Manzanar.
-<param ve-map center="Q985484,8"  basemaps="OpenStreetMap">
+`map Q985484,8`
 
 The potato was a locus of agricultural labor and sustenance for Japanese Americans in California even prior to their forced incarceration. For example, images such as Dorthea Lange’s 1942 photograph, *Stockton, Calif. Apr. 1942. Cutting potato seed on an industrialized farm where, before evacuation, persons of Japanese ancestry did all the work* captures the centrality of the crop to the geography of the American West and the communities within it. As Japanese Americans were forcibly relocated to camps in the High Sierras, the potato was made to follow.
  <param ve-image 
@@ -61,7 +61,7 @@ The potato was a locus of agricultural labor and sustenance for Japanese America
   
   However, while the potato’s presence in the prisoners’ diets provided some nutritional relief against hunger, it quickly became a symbol of the claustrophobic banality of incarcerated life. Louise Ogawa—a prisoner at the Poston Incarceration Camp in Poston, Arizona—wrote often to her friend Clara Breed back home in San Diego. In one of her letters Ogawa describes a week’s worth of meals. While the inclusion of other items might superficially suggest a degree of dietary variety, Ogawa's records reveal the relentless recurrence of the potato, which was served at least twice every single day. For example, on January 16, 1943, Ogawa described the day’s meals as the following: "Breakfast: 2 strips of bacon, cup of cocoa, fried potatoes, 2 toast. Lunch: 1 hamburger, mashed potato, bread, 5 half slices of canned peaches. Supper: rice, 2 donuts, chop suey (all kinds of vegetables cooked together with shoyu), pickled vegetables."[^55] Even with other available foods, the potato in its different preparations remained an inescapable daily constant. The ubiquity of the potato was a core component of daily life in incarceration camps across America, from Ogawa’s experience in Arizona to Okubo’s in California. 
   <param ve-image 
-		 src="gh:Alex-Betz/essays/main/potato/Ogawa.jpg" 
+		 src="gh:Alex-Betz/essays/main/potato/OgawaLetter.jpg" 
 		 caption="Louise Ogawa, *Letter to Clara Breed from Louise Ogawa, Poston, Arizona, January 27, 1943 [page four]*, January 27, 1943. Manuscript letter. Japanese American National Museum (Gift of Elizabeth Y. Yamada, 93.75.31D), Los Angeles, CA.">
 
 While recalling her experience of going for a meal in the camp’s mess hall, Okubo wrote: "At the dishware and the silverware counter I picked up a plate, a knife, and a fork. I wiped my plate clean with my handkerchief and held it out to the first of the cooks, who was serving boiled potatoes with his hands…the entire space was filled with long tables and backless benches. Each table was supposed to accommodate eight persons, but right now each was a bedlam of hungry people. We looked for an empty place but could find none. The air was stuffy and, having temporarily lost our appetites, we decided to forget about eating."[^56] Okubo’s illustration *Inside the mess hall at Tanforan Assembly Center, San Bruno, California, 1942* captures the scene. The potato’s presence in the lives of Okubo and her fellow prisoners permeated every part of life. After long days of forced labor under the harsh California sun spent cultivating the plant—with nothing but the brims of their hats made from its shipping materials to seek shelter under—it was the boiled tubers of the potato that awaited the prisoners in cramped mess halls and narrow tables. It is no surprise Okubo lost her appetite. 
@@ -120,9 +120,6 @@ Potatoes and the fight to find a genetically resistant variant begs whether the 
 <param ve-image
 	   src="gh:JessaMaria/Potatos/main/potato/second.png"
 	   caption="*The Southern Herald.,* March 15, 1912. Provided by: Mississippi Department of Archives and History.">
-
-<param ve-image
-	   src="gh:JessaMaria/Potatos/main/potato/excerpt.png">
  
  [^4]: John Reader, *Potato: A History of the Propitious Esculent* (New Haven: Yale University Press, 2009), 4.
  [^5]: Gavin Ramsay, D. Wynne Griffiths, and Nigel Deighton, "Patterns of Solanidine Glycoalkaloid Variation in Four Gene Pools of the Cultivated Potato," *Genetic Resources and Crop Evolution* 51, no. 8 (December 2005): 805–6, https://doi.org/10.1007/s10722-005-0004-y
