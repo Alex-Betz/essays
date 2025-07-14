@@ -42,7 +42,7 @@ Incan calendars depicted potato planting and harvest. This can be seen in the ma
 ### Manzanar War Relocation Center
 
  The potato’s ability to take root in places where other crops cannot find purchase results in it appearing in unexpected moments in human history. An example of this is captured in American photographer Ansel Adams’ 1943 photograph of a potato harvest, *Farm, farm workers, Mt. Williamson in background, Manzanar Relocation Center, California*. Rows of tilled earth run diagonally across the frame, each attended to by individuals sheltering from the sun under their wide-brimmed hats. In the distance, mountains crest as though they, too, were dug by a great plow coursing through the earth—if only we could stand upon their heights, perhaps we would be met with continuing rows of peaks and troughs just like the foreground. Based on the landscape, one could be forgiven for imagining this to be an image of the potato’s ancestral fields in the foothills of the Andes. And yet, the photograph’s title tells us otherwise. As is often the case with the potato, this image tells a complex story of relocation and struggle in a harsh landscape. Who were these laborers, and why were they there?
- <param ve-image 
+<param ve-image 
 		src="gh:Alex-Betz/essays/potato/AnselAdams.jpg" 
 		caption="Ansel Adams, *Farm, farm workers, Mt. Williamson in background, Manzanar Relocation Center, California*, 1943. Gelatin silver print. Library of Congress, Prints and Photographs Division, https://www.loc.gov/resource/ppprs.00211/#.">
  
@@ -50,17 +50,17 @@ Incan calendars depicted potato planting and harvest. This can be seen in the ma
 <param ve-map center="Q985484,8"  basemaps="OpenStreetMap">
 
 The potato was a locus of agricultural labor and sustenance for Japanese Americans in California even prior to their forced incarceration. For example, images such as Dorthea Lange’s 1942 photograph, *Stockton, Calif. Apr. 1942. Cutting potato seed on an industrialized farm where, before evacuation, persons of Japanese ancestry did all the work* captures the centrality of the crop to the geography of the American West and the communities within it. As Japanese Americans were forcibly relocated to camps in the High Sierras, the potato was made to follow.
- <param ve-image 
+<param ve-image 
 		src="gh:Alex-Betz/essays/main/potato/Lange.jpg" 
 		caption="Dorothea Lange, *Stockton, Calif. Apr. 1942. Cutting potato seed on an industrialized farm where, before evacuation, persons of Japanese ancestry did all the work*, April 10, 1942. Gelatin silver print, 24 x 30 cm. Farm Security Administration - Office of War Information Photograph Collection, Library of Congress, Prints and Photographs Division, https://www.loc.gov/item/2021650513/.">
  
  The potato and the materials surrounding its production became a mainstay of life in all the Japanese incarceration camps—not only as a source of food but also as a source for artistic and cultural creation. For example, in her graphic novel [*Citizen 13660*](Q64214564), depicting daily life as a prisoner in the San Bruno and Topaz camps in California and Utah, artist and writer Miné Okubo wrote that "art and hobby shows were of great interest. The residents exhibited vases and desk sets of wood, toys, stuffed animals and dolls…and beautiful hats made of citrus-fruit wrappings woven with potato-sack strings. Ingenious use was made of everything that could be found in the center."[^54] The potato and its various parts provided sustenance for the prisoners, simultaneously providing a bedrock of their diet while being interwoven into their clothing and daily-lived experiences. In her illustration *Art and hobby show, Central Utah Relocation Project, Topaz, Utah, 1942–1944*, Okubo shows how arts objects made by the prisoners out of accessible materials, such as the strings from potato sacks, were displayed and celebrated.
-  <param ve-image 
+<param ve-image 
 		 src="gh:Alex-Betz/essays/main/potato/Okubo1.jpeg" 
 		 caption="Miné Okubo, Art and hobby show, Central Utah Relocation Project, Topaz, Utah, 1942–1944. Ink on paper. Japanese American National Museum (Gift of the Mine Okubo Estate, 2007.62.168), Los Angeles, California. https://janm.emuseum.com/objects/55705/art-and-hobby-show-central-utah-relocation-project-topaz. (Artwork also depicted in Okubo, Citizen 13660).">
   
   However, while the potato’s presence in the prisoners’ diets provided some nutritional relief against hunger, it quickly became a symbol of the claustrophobic banality of incarcerated life. Louise Ogawa—a prisoner at the [Poston Incarceration Camp](Q7234427) in Poston, Arizona—wrote often to her friend Clara Breed back home in San Diego. In one of her letters Ogawa describes a week’s worth of meals. While the inclusion of other items might superficially suggest a degree of dietary variety, Ogawa's records reveal the relentless recurrence of the potato, which was served at least twice every single day. For example, on January 16, 1943, Ogawa described the day’s meals as the following: "Breakfast: 2 strips of bacon, cup of cocoa, fried potatoes, 2 toast. Lunch: 1 hamburger, mashed potato, bread, 5 half slices of canned peaches. Supper: rice, 2 donuts, chop suey (all kinds of vegetables cooked together with shoyu), pickled vegetables."[^55] Even with other available foods, the potato in its different preparations remained an inescapable daily constant. The ubiquity of the potato was a core component of daily life in incarceration camps across America, from Ogawa’s experience in Arizona to Okubo’s in California. 
-  <param ve-image 
+<param ve-image 
 		 src="gh:Alex-Betz/essays/main/potato/OgawaLetter.jpg" 
 		 caption="Louise Ogawa, *Letter to Clara Breed from Louise Ogawa, Poston, Arizona, January 27, 1943 [page four]*, January 27, 1943. Manuscript letter. Japanese American National Museum (Gift of Elizabeth Y. Yamada, 93.75.31D), Los Angeles, CA.">
 
