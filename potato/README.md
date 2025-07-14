@@ -93,6 +93,26 @@ To win over the public to the potato, Parmentier first sought to promote its cha
        src="gh:alonatelier/planthsp/main/potato/pommedeterre.jpg"
        caption="*La Botanique*, "La Pomme de Terre," 1776. Dumbarton Oaks Rare Book Collection.">
 
+## Underground Subsistence: The Low Countries and Central Europe
+
+Narratives of the potato's adoption in Europe are not without ambiguity. While Enlightenment thinkers such as Young and Parmentier doubtless played a significant role, one would be remiss to discount the efforts of peasants across Europe, who took the initiative to cultivate this "migrant vegetable." [^38] As Europe moved away from traditional agrarian society, and land was parceled out and commodified under a new economic order, it became necessary to adopt a means of subsistence that required little land for productivity. Nally and Kearns invoke the research of Rebecca Earle to argue the significance of this overlooked narrative: "As peasants became proletarians the potato rose in importance as both a lifeline and an enabler; it allowed workers to survive on the little land left to them and it enabled their social reproduction from extremely meager resources." [^39] The authors also cite the potato's essential "furtive" quality as facilitating its embrace by peasant communities; by remaining concealed belowground, it enabled their survival and persistence during times of conflict, when armies would commandeer aboveground food resources.[^40] This was especially true in Alsace, "nearly always the primary theater of war in Europe," as well as the Low Countries.[^41] Indeed, the Netherlands by the 1840s were distinguished by potato cultivation and consumption, like Ireland, and like Ireland, the potato in the Netherlands came to be associated with poverty and famine.[^42] The potato's role in early modern Europe bespeaks its paradoxical connotations of resilience and vulnerability. It possesses the unique ability to thrive in almost any environment, no matter how hostile the soil to other crops, and could be grown in surreptitious locations such as riverbanks and ditches.[^43]
+<param ve-image
+       src="wc:Peasant_and_peasant_women_planting_potatoes_by_Vincent_van_Gogh_(1853-1890).jpg"
+       caption="Vincent Van Gogh, *Peasant and Peasant Woman Planting Potatoes*, 1885. Wikimedia Commons.">
+
+## The Irish Famine
+
+That the potato could be tied up in globally consequent social change is nowhere more evident than in Ireland. The Irish Potato Famine of 1845–1852 marked the culmination of a centuries-long fraught relationship between its land and people, a history of disenfranchisement from which the potato was inextricable. In the aftermath of the Cromwellian wars, Irish land dispossession under the Commonwealth Acts of 1652 and 1653 precipitated a shift in the Irish people's relationship to the potato as a source of food.[^44] While the potato had been cultivated in Ireland as a food crop for several generations, the Commonwealth Acts forced the Irish to accept the potato as their primary source of sustenance.[^45] Prior to these legislative measures, English military campaigns—which aimed to anglicize Ireland and brutally suppress rebellion—routinely implemented scorched-earth tactics that destroyed crops and left people starving.[^46] Salaman addresses the Irish tragedy at length in his book, arguing a complicity between the potato's domination of Irish diets and the continuation of the cottier system, in which all land was held by Anglo-Saxon landlords. The latter was responsible for the poverty of the vast majority of Irish people and by extension, the magnitude of devastation wrought by the famine.[^47] He traces a merciless and unremitting cycle whereby the sole reliance on potato cultivation, which reduces the cost of living and labor to their lowest point, perpetuates poverty, and vice versa: "It is not too much to say that for close on 300 years the potato both stabilized and perpetuated the misery of the Irish masses." [^48] Nally and Kearns sum up the pre-famine situation in Ireland by writing, "the wretched cottier and the mighty landlord were bound together by the material affordances of this migrant vegetable." [^49]
+<param ve-image
+       src="wc:Vincent_van_Gogh_-_Planting_potatoes_(1884).jpg"
+       caption="Vincent Van Gogh, *Potato Planting*, 1884. Wikimedia Commons.">
+
+It is worth noting that the Irish had become exclusively dependent on a small number of potato varieties, in particular the blight-prone variety called "Lumper." [^50] The blight, caused by the infection of potato plants by the Phytophthora infestans fungus, affected potato crops throughout Western Europe. However, only in Ireland did it precipitate the Great Famine, characterized by immense suffering, the death of over one million people, and the subsequent mass migration of over two million Irish people, particularly to North America.[^51] The potato is intertwined with two parallel histories of transatlantic movement: the first, the exchange of food crops—notably the potato—between the Americas and Eurasia, and the second, the migration of Irish people to America. The latter had historical and social reverberations not only for Ireland, but also for the development of the United States.
+<param ve-compare
+       src=wc:"Irish_diaspora.jpg"
+       caption="Parallel maps showing Irish diaspora and Columbian exchange. Wikimedia Commons.">
+<param ve-compare
+       src="BRI_Columbian_Exchange.jpg">
 
 ### Manzanar War Relocation Center
  The potato’s ability to take root in places where other crops cannot find purchase results in it appearing in unexpected moments in human history. An example of this is captured in American photographer Ansel Adams’ 1943 photograph of a potato harvest, *Farm, farm workers, Mt. Williamson in background, Manzanar Relocation Center, California*. Rows of tilled earth run diagonally across the frame, each attended to by individuals sheltering from the sun under their wide-brimmed hats. In the distance, mountains crest as though they, too, were dug by a great plow coursing through the earth—if only we could stand upon their heights, perhaps we would be met with continuing rows of peaks and troughs just like the foreground. Based on the landscape, one could be forgiven for imagining this to be an image of the potato’s ancestral fields in the foothills of the Andes. And yet, the photograph’s title tells us otherwise. As is often the case with the potato, this image tells a complex story of relocation and struggle in a harsh landscape. Who were these laborers, and why were they there?
@@ -155,6 +175,9 @@ Potatoes and the fight to find a genetically resistant variant begs whether the 
 	   src="gh:JessaMaria/Potatos/main/potato/second.png"
 	   caption="*The Southern Herald.,* March 15, 1912. Provided by: Mississippi Department of Archives and History.">
  
+[^1]: Finola O'Kane, "Poverty, Slavery, and Empire: Honoré Daumier's Caricatures of Ireland, Great Britain, Jamaica and France, 1844–1867," in *The Routledge Companion to Irish Art*, ed. Fionna Barber and Fintan Cullen (New York: Routledge, 2025), 324–34.
+[^2]: Catherine Gallagher and Stephen Greenblatt, *Practicing New Historicism* (Chicago: University of Chicago Press, 2000), 133–35.
+[^3]: William H. McNeill, "How the Potato Changed the World’s History," *Social Research* 66, no. 1 (Spring 1999): 67–70, https://www.jstor.org/stable/40971302.
  [^4]: John Reader, *Potato: A History of the Propitious Esculent* (New Haven: Yale University Press, 2009), 4.
  [^5]: Gavin Ramsay, D. Wynne Griffiths, and Nigel Deighton, "Patterns of Solanidine Glycoalkaloid Variation in Four Gene Pools of the Cultivated Potato," *Genetic Resources and Crop Evolution* 51, no. 8 (December 2005): 805–6, https://doi.org/10.1007/s10722-005-0004-y
  [^6]: Štefan Koco, Jozef Vilček, Stanislav Torma, Eva Michaeli, and Vladimír Solár, "Optimising Potato (Solanum tuberosum L.) Cultivation by Selection of Proper Soils," *Agriculture* 10, no. 5 (2020): 155, https://doi.org/10.3390/agriculture10050155.
@@ -163,10 +186,46 @@ Potatoes and the fight to find a genetically resistant variant begs whether the 
  [^9]: Bethke.
  [^10]: Domingo Ríos, André Devaux, and José Ignacio Ruiz de Galarreta, "Ancient Potato Varieties of the Canary Islands: Their History, Diversity and Origin of the Potato in Europe," *Potato Research* (2023): 965–66, https://doi.org/10.1007/s11540-023-09672-2. See also David Ellis, Alberto Salas, Oswaldo Chavez, Rene Gomez, and Noelle Anglin, "Ex Situ Conservation of Potato [*Solanum* Section *Petota* (Solanaceae)] Genetic Resources in Genebanks," in *The Potato Crop*, ed. Hugo Campos and Oscar Ortiz, 109–38 (Cham, Switzerland: Springer International Publishing, 2020), 113–15, http://dx.doi.org/10.1007/978-3-030-28683-5_4.
  [^11]: David M. Spooner, Marc Ghislain, Reinhard Simon, Shelley H. Jansky, and Tatjana Gavrilenko, "Systematics, Diversity, Genetics, and Evolution of Wild and Cultivated Potatoes," *Botanical Review* 80, no. 4 (2014): 283, https://doi.org/10.1007/s12229-014-9146-y.
- [^12]: Redcliffe N. Salaman, The History and Social Influence of the Potato (Cambridge: Cambridge University Press, 1949), 18–19.
+ [^12]: Redcliffe N. Salaman, *The History and Social Influence of the Potato* (Cambridge: Cambridge University Press, 1949), 18–19.
 [^13]: Salaman, 28.
 [^14]: Reader, 8–9.
-[^15]: Inca Garcilaso de la Vega, The Incas: The Royal Commentaries of the Inca Garcilaso de la Vega 1539–1616, trans. Alain Gheerbrant (New York: The Orion Press, 1961), 164–66.
+[^15]: Inca Garcilaso de la Vega, *The Incas: The Royal Commentaries of the Inca Garcilaso de la Vega 1539–1616*, trans. Alain Gheerbrant (New York: The Orion Press, 1961), 164–66.
+[^16]: McNeill, 71-72.
+[^17]: McNeill, 72; David Nally and Gerry Kearns, "Vegetative States: Potatoes, Affordances, and Survival Ecologies," *Antipode* 52, no. 5 (2020): 1378, https://doi.org/10.1111/anti.12652.
+[^18]: Gallagher and Greenblatt; Nally and Kearns, 1385.
+[^19]: Hezekiah Kirkpatrick, *An Account of the Manner in Which Potatoes Are Cultivated and Preserved,: And the Uses to Which They Are Applied in the Counties of Lancaster and Chester, Together with a Description of a New Variety of the Potatoe, Peculiarly Convenient for Forcing in Hot-Houses and Frames. By H. Kirkpatrick* (Warrington, England, 1796), 2.
+[^20]: Gallagher and Greenblatt, 118.
+[^21]: Gallagher and Greenblatt, 114.
+[^22]: Gallagher and Greenblatt, 133–35.
+[^23]: Gallagher and Greenblatt, 129; Nally and Kearns, 1382, 1384.
+[^24]: Nally and Kearns, 1385–86.
+[^25]: Finola O’Kane, "A cabin and not a cottage: the architectural embodiment of the Irish nation," in *Ireland in the European Eye*, ed. Gisela Holfter and Bettina Migge (Dublin: Royal Irish Academy, 2019), 260–61.
+[^26]: Gallagher and Greenblatt, 115–16.
+[^27]: William Cobbett, *The English Gardener: or, A Treatise on the Situation, Soil Enclosing and Laying-Out, of Kitchen Gardens; on the Making and Managing of Hot-Beds and Green-Houses; and on the Propagation and Cultivation of All Sorts of Kitchen-Garden Plants, and of Fruit-Trees...And Also, on the Formation of Shrubberies and Flower-Gardens; ... Concluding with a Kalendar, Giving Instructions Relative to the Sowings, Plantings, Prunings, and Other Labours, to Be Performed in the Gardens, in Each Month of the Year* (London: Published by the author, 1833), 122.
+[^28]: Toby C. Barnard, "Gardening, diet, and "˜improvement’ in later seventeenth-century Ireland," *The Journal of Garden History* 10, no. 1 (1990): 81, https://doi.org/10.1080/01445170.1990.10408279.
+[^29]: Barnard, 72.
+[^30]: Allen J. Grieco, "The Social Politics of Pre-Linnaean Botanical Classification," *I Tatti Studies: Essays in the Renaissance* 4 (1991): 146, https://doi-org.pitt.idm.oclc.org/10.2307/4603673; Barnard, 76–77.
+[^31]: Salaman, 342.
+[^32]: Emma C. Spary, *Feeding France: New Sciences of Food, 1760-1815* (Cambridge University Press, 2014), 67.
+[^33]: Spary, 69.
+[^34]: Antoine-Augustin Parmentier, *Manière de faire le pain de pommes de terre, sans mélange de farine* (Paris: L’Imprimerie Royale, 1779), 36-37.
+[^35]: Spary, 75–76.
+[^36]: Spary, 76.
+[^37]: Spary, 84.
+[^38]: Nally and Kearns, 1383.
+[^39]: Nally and Kearns, 1378.
+[^40]: Nally and Kearns, 1376–77; McNeill, 72.
+[^41]: Christiaan Vandenbroeke, "Cultivation and Consumption of the Potato in the 17th and 18th Century," *Acta Historiae Neerlandicae* 5 (1971): 21–22.
+[^42]: M. Bergman, "The Potato Blight in the Netherlands and its Social Consequences (1845–1847)," *International Review of Social History* 12, no. 3 (1967): 390–93.
+[^43]: Nally and Kearns, 1380, 1382.
+[^44]: Nally and Kearns, 1380; McNeill, 71.
+[^45]: McNeill, 71.
+[^46]: Nally and Kearns, 1379.
+[^47]: Salaman, 335.
+[^48]: Salaman, 343.
+[^49]: Nally and Kearns, 1383.
+[^50]: Nally and Kearns, 1381.
+[^51]: Nally and Kearns, 1378.
  [^52]: Anne Hammond, "Ansel Adams at Manzanar War Relocation Center, 1943–1944," *History of Photography* 30, no. 3 (Autumn 2006): 247, https://doi.org/10.1080/03087298.2006.10443467.
  [^53]: U.S. Department of the Interior, National Park Service, "Chapter Twelve: Operation of Manzanar War Relocation Center, January 1943–November 1945," in *Manzanar Historic Resource Study/Special History Study* (National Park Service, 2002), under the heading "Vegetable Production," accessed May 23, 2025, https://www.nps.gov/parkhistory/online_books/manz/hrs12.htm.
  [^54]: Miné Okubo, *Citizen 13660*, Classics of Asian American Literature (Seattle: University of Washington Press, 2014), 169.
