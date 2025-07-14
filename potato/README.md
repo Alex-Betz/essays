@@ -66,7 +66,7 @@ The potato was a locus of agricultural labor and sustenance for Japanese America
 
 While recalling her experience of going for a meal in the camp’s mess hall, Okubo wrote: "At the dishware and the silverware counter I picked up a plate, a knife, and a fork. I wiped my plate clean with my handkerchief and held it out to the first of the cooks, who was serving boiled potatoes with his hands…the entire space was filled with long tables and backless benches. Each table was supposed to accommodate eight persons, but right now each was a bedlam of hungry people. We looked for an empty place but could find none. The air was stuffy and, having temporarily lost our appetites, we decided to forget about eating."[^56] Okubo’s illustration *Inside the mess hall at Tanforan Assembly Center, San Bruno, California, 1942* captures the scene. The potato’s presence in the lives of Okubo and her fellow prisoners permeated every part of life. After long days of forced labor under the harsh California sun spent cultivating the plant—with nothing but the brims of their hats made from its shipping materials to seek shelter under—it was the boiled tubers of the potato that awaited the prisoners in cramped mess halls and narrow tables. It is no surprise Okubo lost her appetite. 
 <param ve-image 
-	   src="gh:Alex-Betz/essays/potato/Okubo2.jpg" 
+	   src="gh:Alex-Betz/essays/potato/Okubo2.jpeg" 
 	   caption="Miné Okubo, Inside the mess hall at Tanforan Assembly Center, San Bruno, California, 1942. Ink on paper. Japanese American National Museum (Gift of the Mine Okubo Estate, 2007.62.40), Los Angeles, California. (Artwork also depicted in Okubo, Citizen 13660).">
 
 ### A Plant Archive of Survival
